@@ -1,0 +1,3 @@
+[submodule "kicad_library/external/pmw3610-pcb"]
+	path = kicad_library/external/pmw3610-pcb
+	url = git@github.com:siderakb/pmw3610-pcb.git
