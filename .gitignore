@@ -29,4 +29,10 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
 jlcpcb
+
+# Arduino IDE
+debug_custom.json
+debug.cfg
+*.svd
