@@ -6,4 +6,3 @@ My PMW3610 breakout board collections and kicad library
 - [V2](kicad_projects/PMW3610-breakout-v2/Readme.md)
   - Designed for 1 layer PCB assembly
   - Designed to minimize width + height (17.6mm x 16.6mm)
-  - Not confirmed functionality yet

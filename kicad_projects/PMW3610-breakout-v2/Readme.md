@@ -1,7 +1,5 @@
 ## PMW3610 breakout board (v2)
 
-**The functionality is not confirmed yet.**
-
 Features
 
 - width = 17.6mm
@@ -24,8 +22,10 @@ Features
 
 ![](img/2x2_panelized.jpeg)
 
-![](img/front.jpeg)
+![](img/front-impl.jpeg)
 
-![](img/bottom.jpeg)
+![](img/bottom-impl.jpeg)
 
-![](img/side.jpeg)
+![](img/front-side-impl.jpeg)
+
+![](img/bottom-side-impl.jpeg)

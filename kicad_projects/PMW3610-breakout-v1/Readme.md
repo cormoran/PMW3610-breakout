@@ -19,8 +19,10 @@ Problems
 
 ![](img/pcb-bottom.png)
 
-![](img/front.jpeg)
+![](img/front-impl.jpeg)
 
-![](img/bottom.jpeg)
+![](img/bottom-impl.jpeg)
 
-![](img/side.jpeg)
+![](img/front-side-impl.jpeg)
+
+![](img/bottom-side-impl.jpeg)
